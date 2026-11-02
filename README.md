@@ -1,11 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&duration=4000&color=139AE1&multiline=true&repeat=false&width=500&height=75&lines=Hi+there%2C+I+am+Grigoriy;computer+science+student+at+HSE)](https://git.io/typing-svg)
+<div align="center">
 
-## I am learning backend
+# Hi, I'm Grigorii 🦀
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+**Software engineer · Computer Science & Engineering student at HSE**
 
+Building backend services, developer tools, and game engine systems.
 
-### Technologies
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
+
+---
+
+### Tech stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E293B?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-334155?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-334155?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-334155?style=for-the-badge&logo=django&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-475569?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-475569?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-475569?style=for-the-badge)
+![YTsaurus](https://img.shields.io/badge/YTsaurus-475569?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-475569?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Research
+
+📄 [Investigation of Image Reconstruction Methods for Real-Time Rendering](https://ieeexplore.ieee.org/document/11452160)  
+Presented at **ElCon 2026** · Published in **IEEE Xplore**
